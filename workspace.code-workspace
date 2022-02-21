@@ -1,15 +1,12 @@
 {
 	"folders": [
 		{
-			"name": "skepyz.github.io",
 			"path": "."
 		},
 		{
-			"name": "images",
 			"path": "..\\domain_seizure\\swiss\\images"
 		},
 		{
-			"name": "css",
 			"path": "..\\domain_seizure\\swiss\\css"
 		}
 	],
